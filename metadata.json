@@ -1,0 +1,6 @@
+{
+  "name": "制度文档 RAG 与冲突审计台",
+  "description": "面向企业合规与内控的制度文档 RAG 系统，支持跨文档矛盾/冲突自动识别、多版本精准差异对比及自动化复审预警提醒。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
